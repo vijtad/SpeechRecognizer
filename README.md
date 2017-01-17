@@ -13,6 +13,8 @@ Following issues are fixed  in Android:-
 2. Meaningful errors are sent back from Java.
 3. Begin speech event is triggered correctly for listening.
 
+No changes has been done to ios and it should work as described in the extension.
+
 This has been tested using Ionic 2 application.
 
 To install the plugin use 
